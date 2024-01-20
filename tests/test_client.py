@@ -1,6 +1,5 @@
 import os
 import unittest
-from pathlib import Path
 
 from neos_client import NeosClient
 

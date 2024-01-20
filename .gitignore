@@ -1,2 +1,4 @@
 build
 transport.xml
+src/neos_client.egg-info
+tests/*xml
